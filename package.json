@@ -1,0 +1,32 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "ETV Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "hypixel-api": "^1.0.0",
+    "rss-parser": "^3.1.2",
+    "build-url": "^1.1.1",
+    "canvas-prebuilt": "^1.6.5-prerelease.1",
+    "googleapis": "^28.1.0",
+    "hive-api": "^1.5.0",
+    "hiveapi": "^0.1.2",
+    "hypixel": "^1.0.3",
+    "mcauth": "^0.2.2",
+    "mojang-api": "0.0.2",
+    "ms": "^2.1.1",
+    "npm": "^5.8.0",
+    "ortoo-feedparser": "^0.11.0",
+    "rss-feed-emitter": "^2.0.0",
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {}
+}
